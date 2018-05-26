@@ -1,3 +1,3 @@
 # Exercism
 
-:smiling_imp: my solutions tasks from the [exercism.io](http://exercism.io/)
+:smiling_imp: my solutions for [exercism.io](http://exercism.io/)
